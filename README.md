@@ -34,11 +34,15 @@ Cara menjalankan
 Daftar film (Fast & Furious, Cars 4).
 
 Pilih "Pesan Tiket" untuk memulai pemesanan.
+![IMG-20250516-WA0021](https://github.com/user-attachments/assets/1b739e7d-ccac-4f79-b184-a1c1a9ea1d16)
+
 
 🎬  Proses Pemesanan Tiket
 Pilih Film (Contoh: Fast & Furious).
 
-Isi Form Pemesanan:[IMG-20250516-WA0023](https://github.com/user-attachments/assets/782ba0cd-d19c-47fa-b543-78dbcf8a8cfe)
+Isi Form Pemesanan:
+
+![IMG-20250516-WA0019](https://github.com/user-attachments/assets/c4326272-eb9e-4349-ac22-a67439c2e6f8)
 
 
 Nama Pemesan (Contoh: Andrian)
